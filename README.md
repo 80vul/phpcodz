@@ -10,8 +10,8 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 ### Research
 | Item      |    Title | App  |
 | :-------- | :--------| :--: |
-| PCH-018   | [PHP 脚本多字节字符解析模式带来的安全隐患](http://www.80vul.com/pch/pch-018.txt) |  暂缺   |
-| PCH-017   | [About PHP's unserialize() Function Use-After-Free Vulnerability](http://www.80vul.com/pch/pch-017.txt) |  暂缺   |
+| PCH-018   | [PHP 脚本多字节字符解析模式带来的安全隐患](https://github.com/80vul/phpcodz/blob/master/research/pch-018.md) |  暂缺   |
+| PCH-017   | [About PHP's unserialize() Function Use-After-Free Vulnerability](https://github.com/80vul/phpcodz/blob/master/research/pch-017.md) |  暂缺   |
 | PCH-016   | [XSS via Error Reporting Notices in HHVM's unserialize() Function](http://www.80vul.com/pch/pch-016.txt) |  暂缺   |
 | PCH-015   | [Code Injection Vulnerability via unserialize() Function and var_export() Function in HHVM 3](http://www.80vul.com/pch/pch-015.txt) |  暂缺   |
 | PCH-014   | [PHP WDDX Serializier Data Injection Vulnerability](http://www.80vul.com/pch/pch-014.txt)	 |  暂缺   |
