@@ -12,9 +12,9 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 | :-------- | :--------|
 | PCH-018   | [PHP 脚本多字节字符解析模式带来的安全隐患](https://github.com/80vul/phpcodz/blob/master/research/pch-018.md) |
 | PCH-017   | [About PHP's unserialize() Function Use-After-Free Vulnerability](https://github.com/80vul/phpcodz/blob/master/research/pch-017.md) |
-| PCH-016   | [XSS via Error Reporting Notices in HHVM's unserialize() Function](http://www.80vul.com/pch/pch-016.txt) |
-| PCH-015   | [Code Injection Vulnerability via unserialize() Function and var_export() Function in HHVM 3](http://www.80vul.com/pch/pch-015.txt) |
-| PCH-014   | [PHP WDDX Serializier Data Injection Vulnerability](http://www.80vul.com/pch/pch-014.txt)	 |
+| PCH-016   | [XSS via Error Reporting Notices in HHVM's unserialize() Function]((https://github.com/80vul/phpcodz/blob/master/research/pch-016.md) |
+| PCH-015   | [Code Injection Vulnerability via unserialize() Function and var_export() Function in HHVM 3]((https://github.com/80vul/phpcodz/blob/master/research/pch-015.md) |
+| PCH-014   | [PHP WDDX Serializier Data Injection Vulnerability]((https://github.com/80vul/phpcodz/blob/master/research/pch-014.md)	 |
 | PCH-013   | [PHP Session 序列化及反序列化处理器设置使用不当带来的安全隐患](http://www.80vul.com/pch/pch-013.txt) |
 | PCH-012   | [New feature of double-quoted string's complex-curly syntax](http://www.80vul.com/pch/pch-012.txt) |
 | PCH-011   | [Destructor in PHP](http://www.80vul.com/pch/pch-011.txt) |
