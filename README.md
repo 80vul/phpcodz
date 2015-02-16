@@ -13,3 +13,18 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 | PCH-018   | PHP 脚本多字节字符解析模式带来的安全隐患 |  暂缺   |
 | PCH-017   | About PHP's unserialize() Function Use-After-Free Vulnerability |  暂缺   |
 | PCH-016   | XSS via Error Reporting Notices in HHVM's unserialize() Function |  暂缺   |
+| PCH-015   | Code Injection Vulnerability via unserialize() Function and var_export() Function in HHVM 3 |  暂缺   |
+| PCH-014   | PHP WDDX Serializier Data Injection Vulnerability	 |  暂缺   |
+| PCH-013   | PHP Session 序列化及反序列化处理器设置使用不当带来的安全隐患	 |  暂缺   |
+| PCH-012   | New feature of double-quoted string's complex-curly syntax |  暂缺   |
+| PCH-011   | Destructor in PHP	 |  暂缺   |
+| PCH-010   | PHP string序列化与反序列化语法解析不一致带来的安全隐患	 |  暂缺   |
+| PCH-009   | Security risk of php string offset |  暂缺   |
+| PCH-008   | parse_str的变量初始化问题 |  暂缺   |
+| PCH-007   | New Includes Function -- spl_autoload() |  暂缺   |
+| PCH-006   | 安全模式下exec等函数安全隐患[updata:2009-6-19] |  暂缺   |
+| PCH-005   | 当magic_quotes_gpc=off	 |  暂缺   |
+| PCH-004   | 关于magic_quotes_sybase |  暂缺   |
+| PCH-003   | mb_ereg(i)_replace()代码注射漏洞及其延伸出的正则应用安全问题 |  暂缺   |
+| PCH-002   | preg_match(_all)的变量初始化问题 |  暂缺   |
+| PCH-001   | intval()使用不当导致安全漏洞 |  暂缺   |
