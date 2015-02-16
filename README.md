@@ -7,23 +7,9 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 ### About PCH[Php Codz Hacking]
 > 本项目主要是在php源代码的基础上去分析容易导致php应用程序的一些安全问题的根本所在,指导我们发现更加多的关于php的一些'特性'或漏洞.
 
-### 代码块
-``` python
-@requires_authorization
-def somefunc(param1='', param2=0):
-    '''A docstring'''
-    if param1 > param2: # interesting
-        print 'Greater'
-    return (param2 - param1 + 1) or None
-class SomeClass:
-    pass
->>> message = '''interpreter
-... prompt'''
-```
-
-### 表格
+### Research
 | Item      |    Title | App  |
-| :-------- | --------:| :--: |
-| PCH-018   | PHP 脚本多字节字符解析模式带来的安全隐患 |  5   |
-| PCH-017   | About PHP's unserialize() Function Use-After-Free Vulnerability |  5   |
-| PCH-016   | XSS via Error Reporting Notices in HHVM's unserialize() Function |  5   |
+| :-------- | :--------| :--: |
+| PCH-018   | PHP 脚本多字节字符解析模式带来的安全隐患 |  暂缺   |
+| PCH-017   | About PHP's unserialize() Function Use-After-Free Vulnerability |  暂缺   |
+| PCH-016   | XSS via Error Reporting Notices in HHVM's unserialize() Function |  暂缺   |
