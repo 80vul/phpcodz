@@ -10,6 +10,8 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 ### Research
 | Item      |    Title |
 | :-------- | :--------|
+| PCH-020   | [Use After Free Vulnerability in unserialize() with DateTime* [CVE-2015-0273]](https://github.com/80vul/phpcodz/blob/master/research/pch-020.md) |
+| PCH-019   | [Type Confusion Infoleak Vulnerability in unserialize() with DateTimeZone](https://github.com/80vul/phpcodz/blob/master/research/pch-019.md) |
 | PCH-018   | [PHP 脚本多字节字符解析模式带来的安全隐患](https://github.com/80vul/phpcodz/blob/master/research/pch-018.md) |
 | PCH-017   | [About PHP's unserialize() Function Use-After-Free Vulnerability](https://github.com/80vul/phpcodz/blob/master/research/pch-017.md) |
 | PCH-016   | [XSS via Error Reporting Notices in HHVM's unserialize() Function](https://github.com/80vul/phpcodz/blob/master/research/pch-016.md) |
