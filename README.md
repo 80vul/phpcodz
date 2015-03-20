@@ -11,10 +11,8 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 | Item      |    Title |
 | :-------- | :--------|
 | PCH-024   | [Type Confusion Infoleak Vulnerabilities in SoapClient](https://github.com/80vul/phpcodz/blob/master/research/pch-024.md) |
-| PCH-023   | [Type Confusion Vulnerability in SoapClient
-](https://github.com/80vul/phpcodz/blob/master/research/pch-023.md) |
-| PCH-022   | [Use After Free Vulnerability in unserialize() with DateInterval
-](https://github.com/80vul/phpcodz/blob/master/research/pch-022.md) |
+| PCH-023   | [Type Confusion Vulnerability in SoapClient](https://github.com/80vul/phpcodz/blob/master/research/pch-023.md)|
+| PCH-022   | [Use After Free Vulnerability in unserialize() with DateInterval](https://github.com/80vul/phpcodz/blob/master/research/pch-022.md) |
 | PCH-021   | [Use After Free Vulnerability in unserialize()
 ](https://github.com/80vul/phpcodz/blob/master/research/pch-021.md) |
 | PCH-020   | [Use After Free Vulnerability in unserialize() with DateTime* {CVE-2015-0273}](https://github.com/80vul/phpcodz/blob/master/research/pch-020.md) |
