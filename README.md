@@ -10,6 +10,8 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 ### Research
 | Item      |    Title |
 | :-------- | :--------|
+| PCH-026   | [Type Confusion Infoleak and Heap Overflow Vulnerability in unserialize() with exception](https://github.com/80vul/phpcodz/blob/master/research/pch-026.md) |
+| PCH-025   | [Type Confusion Infoleak Vulnerability in unserialize() with SoapFault](https://github.com/80vul/phpcodz/blob/master/research/pch-025.md) |
 | PCH-024   | [Type Confusion Infoleak Vulnerabilities in SoapClient](https://github.com/80vul/phpcodz/blob/master/research/pch-024.md) |
 | PCH-023   | [Type Confusion Vulnerability in SoapClient](https://github.com/80vul/phpcodz/blob/master/research/pch-023.md)|
 | PCH-022   | [Use After Free Vulnerability in unserialize() with DateInterval](https://github.com/80vul/phpcodz/blob/master/research/pch-022.md) |
