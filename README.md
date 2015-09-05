@@ -18,10 +18,10 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 | PCH-029   | [Use After Free Vulnerability in unserialize() with SplDoublyLinkedList](https://github.com/80vul/phpcodz/blob/master/research/pch-029.md) |
 | PCH-028   | [Use After Free Vulnerability in unserialize() with SplObjectStorage](https://github.com/80vul/phpcodz/blob/master/research/pch-028.md) |
 | PCH-027   | [Use After Free Vulnerability in unserialize() with SPL ArrayObject](https://github.com/80vul/phpcodz/blob/master/research/pch-027.md) |
-| PCH-026   | [Type Confusion Infoleak and Heap Overflow Vulnerability in unserialize() with exception](https://github.com/80vul/phpcodz/blob/master/research/pch-026.md) |
-| PCH-025   | [Type Confusion Infoleak Vulnerability in unserialize() with SoapFault](https://github.com/80vul/phpcodz/blob/master/research/pch-025.md) |
-| PCH-024   | [Type Confusion Infoleak Vulnerabilities in SoapClient](https://github.com/80vul/phpcodz/blob/master/research/pch-024.md) |
-| PCH-023   | [Type Confusion Vulnerability in SoapClient](https://github.com/80vul/phpcodz/blob/master/research/pch-023.md)|
+| PCH-026   | [Type Confusion Infoleak and Heap Overflow Vulnerability in unserialize() with exception {CVE-2015-4603}](https://github.com/80vul/phpcodz/blob/master/research/pch-026.md) |
+| PCH-025   | [Type Confusion Infoleak Vulnerability in unserialize() with SoapFault {CVE-2015-4599}](https://github.com/80vul/phpcodz/blob/master/research/pch-025.md) |
+| PCH-024   | [Type Confusion Infoleak Vulnerabilities in SoapClient {CVE-2015-4600}](https://github.com/80vul/phpcodz/blob/master/research/pch-024.md) |
+| PCH-023   | [Type Confusion Vulnerability in SoapClient {CVE-2015-4600}](https://github.com/80vul/phpcodz/blob/master/research/pch-023.md)|
 | PCH-022   | [Use After Free Vulnerability in unserialize() with DateInterval](https://github.com/80vul/phpcodz/blob/master/research/pch-022.md) |
 | PCH-021   | [Use After Free Vulnerability in unserialize() {CVE-2015-2787}](https://github.com/80vul/phpcodz/blob/master/research/pch-021.md) |
 | PCH-020   | [Use After Free Vulnerability in unserialize() with DateTime* {CVE-2015-0273}](https://github.com/80vul/phpcodz/blob/master/research/pch-020.md) |
