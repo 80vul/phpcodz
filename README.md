@@ -10,6 +10,11 @@ Php Codz Hacking (http://www.80vul.com/pch/)
 ### Research
 | Item      |    Title |
 | :-------- | :--------|
+| PCH-034   | [Yet Another Use After Free Vulnerability in unserialize() with SplDoublyLinkedList](https://github.com/80vul/phpcodz/blob/master/research/pch-034.md) |
+| PCH-033   | [Yet Another Use After Free Vulnerability in unserialize() with SplObjectStorage](https://github.com/80vul/phpcodz/blob/master/research/pch-033.md) |
+| PCH-032   | [Use After Free Vulnerability in unserialize() with GMP](https://github.com/80vul/phpcodz/blob/master/research/pch-032.md) |
+| PCH-031   | [Use After Free Vulnerabilities in Session Deserializer](https://github.com/80vul/phpcodz/blob/master/research/pch-031.md) |
+| PCH-030   | [Use After Free Vulnerabilities in unserialize()](https://github.com/80vul/phpcodz/blob/master/research/pch-030.md) |
 | PCH-029   | [Use After Free Vulnerability in unserialize() with SplDoublyLinkedList](https://github.com/80vul/phpcodz/blob/master/research/pch-029.md) |
 | PCH-028   | [Use After Free Vulnerability in unserialize() with SplObjectStorage](https://github.com/80vul/phpcodz/blob/master/research/pch-028.md) |
 | PCH-027   | [Use After Free Vulnerability in unserialize() with SPL ArrayObject](https://github.com/80vul/phpcodz/blob/master/research/pch-027.md) |
